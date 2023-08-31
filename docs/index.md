@@ -60,6 +60,8 @@
 
 docs/index.md から docs/fuga/hoge.md にリンクを張る場合
 
+[ほげ](./fuga/hoge.md)
+
 ## 画像
 
 docs/index.md で docs/hoge.png の画像を表示したい場合
